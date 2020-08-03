@@ -1,5 +1,5 @@
 import ffai
-import mybot
+#import mybot
 import argparse
 import yaml
 

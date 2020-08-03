@@ -1,5 +1,5 @@
 import ffai
-import mybot
+import GbgAgent
 import argparse
 
 parser = argparse.ArgumentParser(formatter_class=argparse.ArgumentDefaultsHelpFormatter)

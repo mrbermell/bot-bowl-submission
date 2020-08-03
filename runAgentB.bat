@@ -1,0 +1,1 @@
+python run.py --agent gotebot --port 6002 --token 1234

@@ -1,14 +1,14 @@
 competitor-a: 
-  name: random-a
+  name: gotebot-a
   team: human
-  hostname: niels-mac
-  port: 5000
+  hostname: SEGOT-L82697
+  port: 5001
   token: '1234'
 competitor-b: 
-  name: random-b
+  name: gotebot-b
   team: human
-  hostname: niels-mac
-  port: 6000
+  hostname: SEGOT-L82697
+  port: 6002
   token: '1234'
-num_games: 10
+num_games: 20
 config: bot-bowl-ii
